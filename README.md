@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Cauzie
+- 👀 I’m interested in C#, C++ and Java Development
+- 🌱 I’m currently learning ...
+- 📫 How to reach me Cauzieツ#4316
